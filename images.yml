@@ -11,8 +11,4 @@ spring:
           destination: learning-spring-boot-comments
           group: comments-service
           content-type: application/json
-
-endpoints:
-  health:
-    enabled: true
   
